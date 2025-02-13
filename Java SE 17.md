@@ -1,6 +1,6 @@
 
 ### **What is a Record in Java?**
-A **record** is a special class in Java designed to be an immutable data carrier. This feature  introduced in **Java 14 (preview) and finalized in Java 16**.
+A **record** is a special class in Java designed to be an immutable data carrier. This feature  introduced in **Java 14 (preview)** and finalized in Java 16.
 
 It automatically generates:
 - **Constructor**
