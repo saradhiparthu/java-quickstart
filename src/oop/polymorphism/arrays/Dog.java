@@ -1,4 +1,4 @@
-package generics;
+package oop.polymorphism.arrays;
 
 public class Dog extends Animal {
 	@Override

@@ -1,5 +1,10 @@
 package generics;
 
+import oop.polymorphism.arrays.Animal;
+import oop.polymorphism.arrays.Bird;
+import oop.polymorphism.arrays.Cat;
+import oop.polymorphism.arrays.Dog;
+
 import java.util.ArrayList;
 import java.util.List;
 

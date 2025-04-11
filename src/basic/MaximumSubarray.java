@@ -1,4 +1,4 @@
-package leetcode;
+package basic;
 public class MaximumSubarray {
     public static int maxSubArray(int[] nums) {
         int maxSum = Integer.MIN_VALUE;

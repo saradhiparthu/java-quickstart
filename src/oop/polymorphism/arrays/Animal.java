@@ -1,4 +1,4 @@
-package generics;
+package oop.polymorphism.arrays;
 
 public abstract class Animal {
 	

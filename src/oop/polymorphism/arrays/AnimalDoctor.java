@@ -1,5 +1,4 @@
-package generics;
-
+package oop.polymorphism.arrays;
 
 
 public class AnimalDoctor {
