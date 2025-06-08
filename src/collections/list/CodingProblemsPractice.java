@@ -12,7 +12,7 @@ public class CodingProblemsPractice {
         System.out.println("Original List:");
         System.out.println(list);
         System.out.println("List without Duplicates");
-        // stream.map.Solution:1
+        // Solution:1
         Set<Integer> set = new LinkedHashSet<>(list);
         System.out.println(set);
         // stream.map.Solution:2
